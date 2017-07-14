@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RealmDatabases.iml" filepath="$PROJECT_DIR$/RealmDatabases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loginrealm/loginrealm.iml" filepath="$PROJECT_DIR$/loginrealm/loginrealm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipeexample/swipeexample.iml" filepath="$PROJECT_DIR$/swipeexample/swipeexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tinderexample/tinderexample.iml" filepath="$PROJECT_DIR$/tinderexample/tinderexample.iml" />
+    </modules>
+  </component>
+</project>
